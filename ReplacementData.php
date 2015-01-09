@@ -921,7 +921,7 @@ class ReplacementData {
 						':\n  ',
 						'consider setting statics through yml files, see http://doc.silverstripe.com/framework/en/topics/configuration, OR change  MyClass:set_my_var(1) to Config::inst()->update->("MyClass", "my_var", 1); '),
 
-			array('DataObject::get_',
+			array('DataObject::get_one',
 						'DataObject::TEMPORARY_CHANGE_get_one'),
 
 			array('::get_',
