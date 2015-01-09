@@ -118,7 +118,7 @@ class ReplacementData {
 
 			array('themedCSS',
 						'themedCSS',
-						'themedCSS now includes a third parameter - and should be formatted like this: themedCSS(myCSS, myModule, myMedia (e.g. PRINT))',
+						'themedCSS now includes a third parameter - and should be formatted like this: themedCSS(myCSS, myModule, myMedia (e.g. PRINT))'),
 
 			array('<% include SearchForm %>',
 						'<% include SearchFormFromTemplateNotMethod %>',
